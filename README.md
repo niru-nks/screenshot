@@ -6,7 +6,7 @@ To install dependencies:-
 npm install
 
 To run file:-
-node test.js <url>
+node test.js url
   
 node test.js https://www.google.com
 
